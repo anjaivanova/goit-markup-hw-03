@@ -169,9 +169,9 @@ color: var(--accent-color);
 
     color: var(--title-text-color);
     background-color: var(--accent-color);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-color: transparent;
-
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    
     font-family: inherit;
     font-weight: 700;
     font-size: 16px;

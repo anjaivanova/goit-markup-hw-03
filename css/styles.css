@@ -194,6 +194,7 @@ color: var(--accent-color);
 
 .list.features-list li {
     margin-right: 30px;
+    width: 270px;
 }
 
 .list.features-list li:last-child {
